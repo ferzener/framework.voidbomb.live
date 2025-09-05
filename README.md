@@ -7,5 +7,5 @@ I just want the simplest and dumbest PHP framework possible.
 # Rule
 1. Solid objects: a page should be a page. (examples, home : index.php, profile : profile.php ...) let's call it filesystem routing.
 2. Have logic consumption per page, no deep abstractions.
-2.1 A page can be a complement of the page before or a new world
+2.1. A page can be a complement of the page before or a new world
 2.2. A directory can be a completly new application or just a route... who knows??
